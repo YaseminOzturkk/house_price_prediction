@@ -40,7 +40,7 @@ Includes libraries required to install and use the libraries and models used in 
 * Hyperparameter Optimization: Hyperparameter optimization has been performed for the LightGBM model.
 * Determining Variable Importance Level: Feature importance analysis has been conducted on the LightGBM model.
 
-## Bonus: Kaggle Submission Preparation
+## Bonus: Submission Preparation
 
 * Making Predictions on Test Data: Using the LightGBM model, empty 'SalePrice' values in the test data have been predicted.
 * Creating Submission File: A new dataframe has been created with predictions and saved to a CSV file suitable for submission on the Kaggle page.
