@@ -13,7 +13,6 @@ Includes libraries required to install and use the libraries and models used in 
 * pandas
 * matplotlib.pyplot and seaborn
 * scikit-learn 
-* warnings
 
 ## Dataset and Exploratory Data Analysis (EDA)
 
