@@ -1,5 +1,6 @@
 
 # House Price Prediction Model
+![quib9Kz](https://github.com/YaseminOzturkk/house_price_prediction/assets/48058898/c19a6888-ccd2-4bae-87ed-2752e6f164c0)
 
 In this project, a machine learning model has been developed to predict house prices. The main stages of the project can be summarized as follows:
 
@@ -7,23 +8,30 @@ In this project, a machine learning model has been developed to predict house pr
 
 Includes libraries required to install and use the libraries and models used in the project.
 
+### Libraries
+* numpy
+* pandas
+* matplotlib.pyplot and seaborn
+* scikit-learn 
+* warnings
+
 ## Dataset and Exploratory Data Analysis (EDA)
 
-Dataset Reading and Merging: Train and test datasets have been read and merged.
-Overview Function: A function has been written to display general characteristics of the dataset.
-Capture Numerical and Categorical Variables: Numerical and categorical variables in the dataset have been identified.
-Categorical Variable Analysis: Summaries of categorical variables have been shown, and their distributions have been visualized.
-Numerical Variable Analysis: Summaries of numerical variables have been shown, and their histograms have been visualized.
-Target Variable Analysis: The relationship between categorical variables and the target variable has been shown.
-Correlation Analysis: Correlations between numerical variables have been shown.
-Variables with High Correlation: Variables with high correlation have been identified.
+* Dataset Reading and Merging: Train and test datasets have been read and merged.
+* Overview Function: A function has been written to display general characteristics of the dataset.
+* Capture Numerical and Categorical Variables: Numerical and categorical variables in the dataset have been identified.
+* Categorical Variable Analysis: Summaries of categorical variables have been shown, and their distributions have been visualized.
+* Numerical Variable Analysis: Summaries of numerical variables have been shown, and their histograms have been visualized.
+* Target Variable Analysis: The relationship between categorical variables and the target variable has been shown.
+* Correlation Analysis: Correlations between numerical variables have been shown.
+* Variables with High Correlation: Variables with high correlation have been identified.
 
 ## Feature Engineering
 
-Outlier Analysis: A function has been written to identify and handle outlier values.
-Missing Value Analysis: Functions have been written to visualize and fill missing values.
-Rare Analysis and Encoder Application: Functions have been written to identify rare classes and apply the encoding process.
-Creating New Variables: New features have been added to the dataset.
+* Outlier Analysis: A function has been written to identify and handle outlier values.
+* Missing Value Analysis: Functions have been written to visualize and fill missing values.
+* Rare Analysis and Encoder Application: Functions have been written to identify rare classes and apply the encoding process.
+* Creating New Variables: New features have been added to the dataset.
 
 ## Modeling
 
